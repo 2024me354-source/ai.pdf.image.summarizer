@@ -1,2 +1,2 @@
 # ai.pdf.image.summarizer
-your personal image assstant
+your personal image assistant
